@@ -14,7 +14,7 @@ public class Tarea3 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) {//este es la clase principal, el metodo main del cual se llamara a todos en la ejecucion
     Menu cualquiera = new Menu();
     cualquiera.Menu_Principal();
             
